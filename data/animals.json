@@ -1,0 +1,32 @@
+[
+  {
+    "id": 11,
+    "name": "tiger",
+    "species": "Mammal"
+  },
+  {
+    "id": 22,
+    "name": "Elephant",
+    "species": "Mammal"
+  },
+  {
+    "id": 33,
+    "name": "Parrot",
+    "species": "Bird"
+  },
+  {
+    "id": 44,
+    "name": "Peacock",
+    "species": "Bird"
+  },
+  {
+    "id": 55,
+    "name": "Cobra",
+    "species": "Reptile"
+  },
+  {
+    "id": 66,
+    "name": "Lizard",
+    "species": "Reptile"
+  }
+]
